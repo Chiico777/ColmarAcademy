@@ -1,12 +1,36 @@
+/*Top Bar*/
 .COLMARACADEMY {
     position: relative;
     left: 45px;
     bottom: 47px;
     font-size: 32px;
  }
- 
- img{
+img{
     height: 50px;
     width: 50px;
  }
+#desktop {
+    text-align: right;
+    position: relative;
+    bottom: 85px;
+    padding-right: 24px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+#desktop a {
+    margin-left: 16px;
+}
+/*Middle*/
+.img-study {
+   width: 60%;
+   height: auto;
+   padding-left: 24px;
+   padding-top: 32px;
+   box-sizing: border-box;
+}
  
